@@ -1,0 +1,35 @@
+commit 28c31546a83510c077906f225b451681004128d0
+Author: Enrique Matul <ematul.92@gmail.com>
+Date:   Thu Feb 26 18:28:34 2015 -0600
+
+    Salve mi portafolio
+
+commit 09042c2406ab60e32372b5c31eb71292a045dd1b
+Author: Enrique Matul <ematul.92@gmail.com>
+Date:   Thu Feb 26 18:27:38 2015 -0600
+
+    Agregue descripción
+
+commit 0802e355cae19955c65b63e3ffe9b5df9205a6f1
+Author: Enrique Matul <ematul.92@gmail.com>
+Date:   Thu Feb 26 18:26:25 2015 -0600
+
+    Agregue redes sociales
+
+commit ad29a5aba8d8571f1ed06f1f3ea2452015e20634
+Author: Enrique Matul <ematul.92@gmail.com>
+Date:   Thu Feb 26 18:21:23 2015 -0600
+
+    perfil Web escrito
+
+commit 0967b8f096588207a7846007fa6f5eb6c0d896e6
+Author: Enrique Matul <ematul.92@gmail.com>
+Date:   Thu Feb 26 18:18:56 2015 -0600
+
+    Subi foto de perfil y nombre
+
+commit d4575c700e4b5f376ff2700dcf2a55c70ba8cd44
+Author: Enrique Matul <ematul.92@gmail.com>
+Date:   Thu Feb 26 18:11:47 2015 -0600
+
+    Estos son los archivos bases del portafolio
